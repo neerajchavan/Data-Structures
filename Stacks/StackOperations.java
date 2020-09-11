@@ -1,9 +1,12 @@
+//Stack implementation using Array.
+
 import java.util.Scanner;
 
 class Stack{
  private int arr[];
  private int top, capacity;
 
+ //initialization of stack
  Stack(int size)
  {
      if(size>0){
@@ -17,6 +20,7 @@ class Stack{
      System.exit(1);}
  }
 
+ //inserting elemet into stack
  public void push(int element)
  {
    if(isFull())
@@ -27,6 +31,7 @@ class Stack{
    System.out.println(element +" added, Top : "+top);} 
  }
 
+ //removing top element from stack
  public void pop()
  {
   if(isEmpty())
@@ -37,6 +42,7 @@ class Stack{
   System.out.println("Top: "+top);}
  }
 
+ //fetching top element of stack
  public int peek(){
     if(isEmpty()){
         System.out.println("Stack is empty!");
@@ -46,6 +52,7 @@ class Stack{
       return arr[top];  
  }
 
+ //print all the elemets of stack
  public void printStack(){
      if(isEmpty())
         System.out.println("No elemets in stack!");
