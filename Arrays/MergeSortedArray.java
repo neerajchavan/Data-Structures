@@ -1,8 +1,8 @@
 import java.util.Arrays;
 
 public class MergeSortedArray {
-    // Copy paste Solution2 class in leetcode compiler
-    // Change name of solution2 to Solution while running code in leetcode compiler
+    // Copy paste Solution class in leetcode compiler
+    // Change name of solution to Solution while running code in leetcode compiler
 }
 
 class Solution2 {

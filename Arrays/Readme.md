@@ -18,7 +18,7 @@ Input: [1,2,3]
 Output: null
 Explanation: After calling your function, the input array is modified to: [1,2,3]
 ```
-**Duplicate Zeroes[Solution]()**
+**Duplicate Zeroes - [Solution](https://github.com/neerajchavan/Data-Structures/blob/master/Arrays/DuplicateZeroes.java)**
 
 ## Problem 2 :  Merge Sorted Array
 Given two sorted integer arrays `nums1` and `nums2`, merge `nums2` into `nums1` as one sorted array.
@@ -35,4 +35,12 @@ Example 2:
 Input: nums1 = [1], m = 1, nums2 = [], n = 0
 Output: [1]
 ```
-**Merge Sorted Array - [Solution]()**
+**Merge Sorted Array - [Solution](https://github.com/neerajchavan/Data-Structures/blob/master/Arrays/MergeSortedArray.java)**
+
+## Problem 3 : Remove Element
+[Problem](https://leetcode.com/explore/featured/card/fun-with-arrays/526/deleting-items-from-an-array/3247/) |
+[Solution](https://github.com/neerajchavan/Data-Structures/blob/master/Arrays/RemoveElement.java)
+
+## Problem 4 : Remove Duplicates from Sorted Array
+[Problem](https://leetcode.com/explore/learn/card/fun-with-arrays/526/deleting-items-from-an-array/3248/) |
+[Solution](https://github.com/neerajchavan/Data-Structures/blob/master/Arrays/RemoveDuplicates.java)
