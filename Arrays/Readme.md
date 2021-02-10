@@ -44,3 +44,8 @@ Output: [1]
 ## Problem 4 : Remove Duplicates from Sorted Array
 [Problem](https://leetcode.com/explore/learn/card/fun-with-arrays/526/deleting-items-from-an-array/3248/) |
 [Solution](https://github.com/neerajchavan/Data-Structures/blob/master/Arrays/RemoveDuplicates.java)
+
+# 450 DSA Questions (Array Prolem Solutions)- [link](https://docs.google.com/spreadsheets/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/edit#gid=1773184282)
+
+[Index 8 - Find "Kth" element](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1) | 
+[Solution](https://github.com/neerajchavan/Data-Structures/blob/master/Arrays/KthElement.java)
