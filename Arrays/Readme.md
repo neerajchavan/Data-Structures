@@ -1,41 +1,11 @@
 # Arrays
-## Problem 1 : Duplicate Zeroes
-Given a fixed length array `arr` of integers, duplicate each occurrence of zero, shifting the remaining elements to the right.
-
-Note that elements beyond the length of the original array are not written.
-
-Do the above modifications to the input array **in place**, do not return anything from your function.
-
-Example 1:
-```
-Input: [1,0,2,3,0,4,5,0]
-Output: null
-Explanation: After calling your function, the input array is modified to: [1,0,0,2,3,0,0,4]
-```
-Example 2:
-```
-Input: [1,2,3]
-Output: null
-Explanation: After calling your function, the input array is modified to: [1,2,3]
-```
-**Duplicate Zeroes - [Solution](https://github.com/neerajchavan/Data-Structures/blob/master/Arrays/DuplicateZeroes.java)**
+## Problem 1 : Duplicate Zeroes 
+[Problem](https://leetcode.com/problems/duplicate-zeros/) | 
+[Solution](https://github.com/neerajchavan/Data-Structures/blob/master/Arrays/DuplicateZeroes.java)
 
 ## Problem 2 :  Merge Sorted Array
-Given two sorted integer arrays `nums1` and `nums2`, merge `nums2` into `nums1` as one sorted array.
-
-The number of elements initialized in `nums1` and `nums2` are `m` and `n` respectively. You may assume that `nums1` has enough space (size that is equal to `m + n`) to hold additional elements from `nums2`.
-
-Example 1:
-```
-Input: nums1 = [1,2,3,0,0,0], m = 3, nums2 = [2,5,6], n = 3
-Output: [1,2,2,3,5,6]
-```
-Example 2:
-```
-Input: nums1 = [1], m = 1, nums2 = [], n = 0
-Output: [1]
-```
-**Merge Sorted Array - [Solution](https://github.com/neerajchavan/Data-Structures/blob/master/Arrays/MergeSortedArray.java)**
+[Problem](https://leetcode.com/problems/merge-sorted-array/) | 
+[Solution](https://github.com/neerajchavan/Data-Structures/blob/master/Arrays/MergeSortedArray.java)
 
 ## Problem 3 : Remove Element
 [Problem](https://leetcode.com/explore/featured/card/fun-with-arrays/526/deleting-items-from-an-array/3247/) |
@@ -45,7 +15,25 @@ Output: [1]
 [Problem](https://leetcode.com/explore/learn/card/fun-with-arrays/526/deleting-items-from-an-array/3248/) |
 [Solution](https://github.com/neerajchavan/Data-Structures/blob/master/Arrays/RemoveDuplicates.java)
 
-# 450 DSA Questions (Array Prolem Solutions)- [link](https://docs.google.com/spreadsheets/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/edit#gid=1773184282)
+# 450 DSA Questions by Babbar (Array Prolems)
 
-[Index 8 - Find "Kth" element](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1) | 
-[Solution](https://github.com/neerajchavan/Data-Structures/blob/master/Arrays/KthElement.java)
+### These are the solutions of the array problems given by Love Babbar. (Index) represents the index number of the problem in the [document](https://docs.google.com/spreadsheets/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/edit#gid=1773184282).
+
+1) Reverse An Array (Index-6)
+   [Problem](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/) | 
+   [Solution](https://github.com/neerajchavan/Data-Structures/blob/master/Arrays/ArrayReversal.java)
+
+2) Maximum And Minimum Element In An Array (Index-7)
+   [Problem](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/) | 
+   [Solution](https://github.com/neerajchavan/Data-Structures/blob/master/Arrays/MinMaxArray.java)
+
+3) "Kth" Maximum And Minimum Element In An Array (Index-8)
+   [Problem](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1) | [Solution](https://github.com/neerajchavan/Data-Structures/blob/master/Arrays/KthElement.java)
+
+4) Move All The Negatives To One Side Of An Array (Index-10)
+   [Problem](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/) | 
+   [Solution](https://github.com/neerajchavan/Data-Structures/blob/master/Arrays/MoveNegatives.java)
+
+5) Cyclically Rotate An Array By One (Index-11)
+   [Problem]() | [Solution](https://github.com/neerajchavan/Data-Structures/blob/master/Arrays/CyclicArrayRotation.java)
+

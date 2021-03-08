@@ -24,5 +24,4 @@ public class KthElement {
 
         return tempArray[arr.length - k];
     }
-
 }
