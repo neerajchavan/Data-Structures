@@ -34,6 +34,13 @@
    [Problem](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/) | 
    [Solution](https://github.com/neerajchavan/Data-Structures/blob/master/Arrays/MoveNegatives.java)
 
-5) Cyclically Rotate An Array By One (Index-11)
-   [Problem]() | [Solution](https://github.com/neerajchavan/Data-Structures/blob/master/Arrays/CyclicArrayRotation.java)
+5) Cyclically Rotate An Array By One (Index-12)
+   [Problem](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | [Solution](https://github.com/neerajchavan/Data-Structures/blob/master/Arrays/CyclicArrayRotation.java)
+
+6) Maximum Sum Of Contiguous Sub Array (Index-13)
+   
+   This problem is solved in `O(n)` time by using `Kadane's Algorithm` - [How and Why?](https://medium.com/@rsinghal757/kadanes-algorithm-dynamic-programming-how-and-why-does-it-work-3fd8849ed73d)
+   
+   [Problem](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1#) | [Solution](https://github.com/neerajchavan/Data-Structures/blob/master/Arrays/ContiguousSubArraySum.java) | [Tutorial](https://www.youtube.com/watch?v=HCL4_bOd3-4&t=605s)
+
 
