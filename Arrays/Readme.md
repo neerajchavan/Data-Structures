@@ -15,7 +15,7 @@
 [Problem](https://leetcode.com/explore/learn/card/fun-with-arrays/526/deleting-items-from-an-array/3248/) |
 [Solution](https://github.com/neerajchavan/Data-Structures/blob/master/Arrays/RemoveDuplicates.java)
 
-# 450 DSA Questions by Babbar (Array Prolems)
+# 450 DSA Questions by Babbar (Array Problems)
 
 ### These are the solutions of the array problems given by Love Babbar. (Index) represents the index number of the problem in the [document](https://docs.google.com/spreadsheets/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/edit#gid=1773184282).
 
