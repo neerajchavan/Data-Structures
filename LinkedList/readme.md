@@ -7,8 +7,12 @@
    [Problem](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1) | 
    [Solution](https://github.com/neerajchavan/Data-Structures/blob/master/LinkedList/ReverseLinkedList.java)
 
-2) Reverse a Linked List in groups of given size. (Index-140)
+2) Reverse A Linked List In Groups Of Given Size. (Index-140)
    [Problem](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1) | 
    [Solution](https://github.com/neerajchavan/Data-Structures/blob/master/LinkedList/ReverseLinkedListGroup.java)
+
+3) Detect Loop In Linked List. (Index-141)
+   [Problem](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1) | 
+   [Solution](https://github.com/neerajchavan/Data-Structures/blob/master/LinkedList/DetectLoop.java)
 
 
