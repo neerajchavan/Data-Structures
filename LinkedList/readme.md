@@ -18,5 +18,9 @@
 4) Delete Loop In Linked List. (Index-142)
    [Problem](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1) | 
    [Solution](https://github.com/neerajchavan/Data-Structures/blob/master/LinkedList/DeleteLoop.java) | [Tutorial](https://www.youtube.com/watch?v=_BG9rjkAXj8&t=195s)
-   
+
+5) Detect Starting Point Of Loop. (Index-143)
+   [Problem](https://leetcode.com/problems/linked-list-cycle-ii/) | 
+   [Solution](https://github.com/neerajchavan/Data-Structures/blob/master/LinkedList/StartingPointOfLoop.java)
+     
 
