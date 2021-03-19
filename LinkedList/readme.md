@@ -15,4 +15,8 @@
    [Problem](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1) | 
    [Solution](https://github.com/neerajchavan/Data-Structures/blob/master/LinkedList/DetectLoop.java)
 
+4) Delete Loop In Linked List. (Index-142)
+   [Problem](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1) | 
+   [Solution](https://github.com/neerajchavan/Data-Structures/blob/master/LinkedList/DeleteLoop.java) | [Tutorial](https://www.youtube.com/watch?v=_BG9rjkAXj8&t=195s)
+   
 

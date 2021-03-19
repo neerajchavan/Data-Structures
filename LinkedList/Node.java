@@ -16,4 +16,11 @@ public class Node {
         this.val = val;
         this.next = next;
     }
+
+    public static void printLinkedList(Node node) {
+        while (node != null) {
+            System.out.print(node.val + " ");
+            node = node.next;
+        }
+    }
 }
