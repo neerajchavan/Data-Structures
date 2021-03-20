@@ -23,4 +23,6 @@
    [Problem](https://leetcode.com/problems/linked-list-cycle-ii/) | 
    [Solution](https://github.com/neerajchavan/Data-Structures/blob/master/LinkedList/StartingPointOfLoop.java)
      
-
+6) Remove duplicate element from sorted Linked List. (Index-144)
+   [Problem](https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1) | 
+   [Solution](https://github.com/neerajchavan/Data-Structures/blob/master/LinkedList/DeleteSortedDuplicates.java)
